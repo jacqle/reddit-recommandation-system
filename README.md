@@ -1,6 +1,6 @@
 # subreddit-recommandation
 
-A case study of non-negative matrix factorization for recommendation systems
+A case study presenting non-negative matrix factorization for recommendation systems
 
 ## Contents
 
